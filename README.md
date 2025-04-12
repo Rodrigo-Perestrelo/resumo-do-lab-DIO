@@ -1,5 +1,6 @@
 # resumo-do-lab-DIO
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Conceitos de nuvem
 
@@ -20,3 +21,11 @@ Elasticidade
 Agilidade
 Economia de custos (quando implementado controles como Finops)
 Modelo de responsabilidade compartilhada
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Tipos de Serviços de Nuvem
+
+IaaS - Infraestrutura as a Service:  Quando o provedor fornece a infra para ser utilizada com o maior gerenciamento do cliente.
+PaaS - Plataforma as a Service: Quando o provedor fornece uma plataforma de serviço para ser utilizada com infra e serviços para uma adoção mais rápida do cliente, sem o gerenciamento da infraestrutura.
+SaaS - Software as a Service: Quando o provedor fornece um software para ser usado pelo cliente, é aqui onde o gerenciamento do cliente é menor e o modelo de desponsabilidade compartilhada tem como o provedor do serviço a maior responsabilidade (inversamente ao Iaas)
